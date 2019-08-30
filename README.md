@@ -6,4 +6,7 @@ This project is based on an official Unity Tutorial.
 
 Refactored by adding a CustomTrackableEventHandler script.
 
+![VuforiaTest](VuforiaTest.png)
+
+
 
